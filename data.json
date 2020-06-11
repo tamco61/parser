@@ -1,0 +1,244 @@
+{
+    "books": [
+        {
+            "author": "Оро Призывающий",
+            "image": "https://author.today/content/2020/04/04/740a96034e234b29a33f7cc0922dd1c3.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/66945",
+            "link_on_text": "https://author.today/reader/66945",
+            "status": null,
+            "title": "999999999 маны"
+        },
+        {
+            "author": "Виталий Зыков",
+            "image": "https://author.today/content/2020/02/19/e5de0648c7964127a027929711342d29.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/37659",
+            "link_on_text": "https://author.today/reader/37659",
+            "status": null,
+            "title": "Малк (том 2). И когда ты её нашёл"
+        },
+        {
+            "author": "Иван Городецкий",
+            "image": "https://author.today/content/2020/03/08/cc36afdbc04d478fb9590a83a39ba4bc.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/62689",
+            "link_on_text": "https://author.today/reader/62689",
+            "status": null,
+            "title": "Другой мир: артефактор"
+        },
+        {
+            "author": "Зигмунд Крафт",
+            "image": "https://author.today/content/e802f39e27cc4c4db48f01f97b2a7e96.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/69185",
+            "link_on_text": "https://author.today/reader/69185",
+            "status": null,
+            "title": "Герой обратной стороны IV"
+        },
+        {
+            "author": "Николай Метельский",
+            "image": "https://author.today/content/2020/02/09/ad63df1ab40c426fb73caa470b11e0e0.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/58624",
+            "link_on_text": "https://author.today/reader/58624",
+            "status": null,
+            "title": "Книга девятая - Устав от масок"
+        },
+        {
+            "author": "Роман Прокофьев",
+            "image": "https://author.today/content/2019/08/17/d62f9cfa3c474054a0ee352c28179ad8.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/42665",
+            "link_on_text": "https://author.today/reader/42665",
+            "status": null,
+            "title": "Стеллар. Инкарнатор"
+        },
+        {
+            "author": "Ilya Solomenny",
+            "image": "https://author.today/content/916d1ca91da44ed98a3e3489f088feaa.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/68318",
+            "link_on_text": "https://author.today/reader/68318",
+            "status": null,
+            "title": "Хроники Книжника. Ученик"
+        },
+        {
+            "author": "Андрей Васильев",
+            "image": "https://author.today/content/2018/02/17/w/ca6d2f0ba81f408aa2d39530a18fbd72.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/14087",
+            "link_on_text": "https://author.today/reader/14087",
+            "status": null,
+            "title": "\"Файролл-1. Игра не ради игры\""
+        },
+        {
+            "author": "Дмитрий Серебряков",
+            "image": "https://author.today/content/44e8a8012351433281b7070d0962cf6a.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/64119",
+            "link_on_text": "https://author.today/reader/64119",
+            "status": true,
+            "title": "Безнадежный"
+        },
+        {
+            "author": "Виталий Зыков",
+            "image": "https://author.today/content/2020/03/23/cc0465517318427e8d1cdf974ce3fb77.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/64961",
+            "link_on_text": "https://author.today/reader/64961",
+            "status": null,
+            "title": "Школа Пепла"
+        },
+        {
+            "author": "Жгулёв Пётр",
+            "image": "https://author.today/content/2020/01/16/c75b81bddcd249b780658938e794d904.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/17501",
+            "link_on_text": "https://author.today/reader/17501",
+            "status": null,
+            "title": "Real-Rpg. Город гоблинов"
+        },
+        {
+            "author": "Иван Городецкий",
+            "image": "https://author.today/content/2019/12/31/34ecbdec6ca346de973ef134a470a95e.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/53735",
+            "link_on_text": "https://author.today/reader/53735",
+            "status": null,
+            "title": "Другой мир: попаданец"
+        },
+        {
+            "author": "Ефанов Сергей",
+            "image": "https://author.today/content/2020/03/18/3933d944c71b4d1fa52c03df0df46551.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/7914",
+            "link_on_text": "https://author.today/reader/7914",
+            "status": null,
+            "title": "Псимаг-1 - Следы на воде"
+        },
+        {
+            "author": "Андрей Стоев",
+            "image": "https://author.today/content/2019/12/28/bd09afed19d34068b64ca7e6f95d5a0b.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/46376",
+            "link_on_text": "https://author.today/reader/46376",
+            "status": null,
+            "title": "За последним порогом. Начало"
+        },
+        {
+            "author": "Дем Михайлов",
+            "image": "https://author.today/content/2019/09/03/bb4d604ad98445fc81372d81138d0b8b.jpeg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/43905",
+            "link_on_text": "https://author.today/reader/43905",
+            "status": null,
+            "title": "Низший"
+        },
+        {
+            "author": "Кирилл Клеванский",
+            "image": "https://author.today/content/2020/02/16/f1a7bc3c3cb54561bb2cd7e0fe17b549.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/60081",
+            "link_on_text": "https://author.today/reader/60081",
+            "status": null,
+            "title": "Дело Черного Мага. Том 3"
+        },
+        {
+            "author": "Виктор Крыс",
+            "image": "https://author.today/content/2019/06/19/d14548e3d3f5419193450216432834cc.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/19193",
+            "link_on_text": "https://author.today/reader/19193",
+            "status": null,
+            "title": "Демон рода Шосе или новая жизнь"
+        },
+        {
+            "author": "Антон Демченко",
+            "image": "https://author.today/content/2018/09/26/w/1d1b8a923ea34596b95e8c185406f886.png?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/20763",
+            "link_on_text": "https://author.today/reader/20763",
+            "status": null,
+            "title": "Воздушный Стрелок. Боярич"
+        },
+        {
+            "author": "Евгений Нетт",
+            "image": "https://author.today/content/2020/03/22/fa10c586c2ba42c48206c714d3f05161.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/62461",
+            "link_on_text": "https://author.today/reader/62461",
+            "status": null,
+            "title": "Новая эпоха. Аур. Том 1."
+        },
+        {
+            "author": "Валерий Пылаев",
+            "image": "https://author.today/content/9e768c08123c41f0995b63f0a8c2c312.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/67308",
+            "link_on_text": "https://author.today/reader/67308",
+            "status": null,
+            "title": "Пятый Посланник"
+        },
+        {
+            "author": "Зигмунд Крафт",
+            "image": "https://author.today/content/2020/02/10/01ecf2e5d08849e291fe743200260a68.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/59296",
+            "link_on_text": "https://author.today/reader/59296",
+            "status": null,
+            "title": "Герой чужого рода III"
+        },
+        {
+            "author": "Зигмунд Крафт",
+            "image": "https://author.today/content/2019/12/31/c9b1e11ff6074277be9a1433d7275eb9.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/54521",
+            "link_on_text": "https://author.today/reader/54521",
+            "status": null,
+            "title": "Герой иного мнения II"
+        },
+        {
+            "author": "Мартин Аратои",
+            "image": "https://author.today/content/2019/10/30/8a0d741610d8438e8aec62595e71dd70.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/48632",
+            "link_on_text": "https://author.today/reader/48632",
+            "status": null,
+            "title": "Тинар. Том 3"
+        },
+        {
+            "author": "Василий Маханенко",
+            "image": "https://author.today/content/2020/03/11/7fd45da00f5a4e888ad0a74c84fad503.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/60253",
+            "link_on_text": "https://author.today/reader/60253",
+            "status": true,
+            "title": "Алхимик. Книга 2: Лес желаний"
+        },
+        {
+            "author": "Айтбаев Т.А.",
+            "image": "https://author.today/content/2019/05/15/0b2afc6a644b4c18b9964dbe61d4e8ee.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/10101",
+            "link_on_text": "https://author.today/reader/10101",
+            "status": null,
+            "title": "Вы призвали не того..."
+        },
+        {
+            "author": "Мартин Аратои",
+            "image": "https://author.today/content/2019/08/27/cf5f42fae9ab4d4ea6a368d563f5c3c3.jpeg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/42454",
+            "link_on_text": "https://author.today/reader/42454",
+            "status": null,
+            "title": "Тинар. Том 2"
+        },
+        {
+            "author": "Джон Голд",
+            "image": "https://author.today/content/2019/04/29/c41472295c154957a00b01a0303ab14c.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/24828",
+            "link_on_text": "https://author.today/reader/24828",
+            "status": null,
+            "title": "Хризалида. Книга первая. Путь Предвестника"
+        },
+        {
+            "author": "Валерий Пылаев",
+            "image": "https://author.today/content/2020/01/07/2799c6b77fda4ebabeda0f3e1a275775.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/55257",
+            "link_on_text": "https://author.today/reader/55257",
+            "status": null,
+            "title": "Видящий"
+        },
+        {
+            "author": "Владимир Ильин",
+            "image": "https://author.today/content/2019/07/06/f9ddb367af464cbba104ee0d4f900ca0.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/39606",
+            "link_on_text": "https://author.today/reader/39606",
+            "status": null,
+            "title": "Кое-что об архимагах"
+        },
+        {
+            "author": "Владимир Ильин",
+            "image": "https://author.today/content/2020/02/23/9610517542a04bb9944abd666c853789.jpg?width=153&height=200&mode=max",
+            "link_on_profile": "https://author.today/work/14846",
+            "link_on_text": "https://author.today/reader/14846",
+            "status": null,
+            "title": "Напряжение"
+        }
+    ]
+}
