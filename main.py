@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import os
 from clear import convert
 import requests
+from settings import *
 
 
 session = requests.Session()
@@ -12,11 +13,11 @@ session = requests.Session()
 
 # do login
 
-with open('cookies.json') as f:
+with open(PATH_TO_COOKIES) as f:
     session.cookies.update(json.load(f))
 
 
-with open('../AuthorToday/data.json', encoding='utf-8') as f:
+with open(PATH_TO_DATA, encoding='utf-8') as f:
     data = json.load(f)
 
 options = webdriver.ChromeOptions()
