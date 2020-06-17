@@ -42,3 +42,6 @@ def create_data_json(path_cookies='../data/cookies.json', path_data='../data/dat
 
 	get_info()
 
+
+if __name__=="__main__":
+	create_data_json()
