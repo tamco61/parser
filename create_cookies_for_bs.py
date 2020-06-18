@@ -11,7 +11,7 @@ It is not magic!!!
 import requests, json
 
 
-def create_cookies_for_bs(path='../data/cookies.json', Login, Password):
+def create_cookies_for_bs(Login, Password, path='data/cookies.json'):
 	session = requests.Session()
 
 
@@ -31,7 +31,12 @@ def create_cookies_for_bs(path='../data/cookies.json', Login, Password):
 	}
 
 
-	session.post('https://author.today/account/login', data=payload, headers=headers)
+	request = session.post('https://author.today/account/login', data=payload, headers=headers)
+	res = json.loads(request.text)
+	if res['isSuccessful']:
+		with open(path, 'w') as f:
+		    json.dump(requests.utils.dict_from_cookiejar(session.cookies), f)
 
-	with open(path, 'w') as f:
-	    json.dump(requests.utils.dict_from_cookiejar(session.cookies), f)
+		return True, res['messages']
+
+	return False, res['messages']

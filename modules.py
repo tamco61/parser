@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from settings import *
 
 
 def get_information_from_library(soup):
@@ -97,3 +98,11 @@ def clear_text(text):
 			result += char
 
 	return result
+
+
+def empty_cookies():
+	try:
+		with open(PATH_TO_COOKIES, 'r') as f:
+			return True
+	except FileNotFoundError:
+		return False

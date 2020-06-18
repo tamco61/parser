@@ -7,7 +7,7 @@ import json
 import modules
 
 
-def create_data_json(path_cookies='../data/cookies.json', path_data='../data/data.json'):
+def create_data_json(path_cookies='data/cookies.json', path_data='data/data.json'):
 	# create session
 
 	session = requests.Session()
@@ -32,8 +32,6 @@ def create_data_json(path_cookies='../data/cookies.json', path_data='../data/dat
 
 		datadict = modules.get_information_from_library(soup)
 
-
-		print(datadict)
 		# write info for library in json file
 		with open(path_data, 'w', encoding='utf-8') as f:
 			json.dump(datadict, f)
